@@ -51,7 +51,7 @@ pip install -r requirements.txt # requirements.txt conatins all needed for the p
 
    * *Terrain Visualization*: Include an option to graphically display the returned elevation files as either a 3D render plot or as a heatmap
            
-            <a href="https://github.com/Rukundo725/AgriTech---USGS-LIDAR/tree/main/">notebookscodes and visualisations</a>
+         <a href="https://github.com/Rukundo725/AgriTech---USGS-LIDAR/tree/main/"> notebookscodes and visualisations</a>
 
 
    * *Data Transformation*: 
